@@ -108,6 +108,41 @@ Outlier capping applied to: `annual_income`, `loan_amount`, `credit_score`, `deb
 | 6 | Correlation Heatmap | `annual_income` & `monthly_income` are highly correlated |
 | 7 | Employment / Loan Purpose / Gender | Unemployed applicants have highest default rate |
 
+### 📸 EDA Plots
+
+**1. Target Distribution**
+![Target Distribution](Images/plot_target_distribution.png)
+
+**2. Loan Amount Analysis**
+![Loan Amount](Images/plot_loan_amount.png)
+
+**3. Education Level Analysis**
+![Education Level](Images/plot_education.png)
+
+**4. Annual Income Analysis**
+![Annual Income](Images/plot_income.png)
+
+**5. Credit Score Analysis**
+![Credit Score](Images/plot_credit_score.png)
+
+**6. Correlation Heatmap**
+![Correlation Heatmap](Images/plot_correlation.png)
+
+**7. Demographics & Loan Purpose**
+![Demographics](Images/plot_demographics.png)
+
+**Confusion Matrices**
+![Confusion Matrices](Images/plot_confusion_matrices.png)
+
+**ROC Curves**
+![ROC Curves](Images/plot_roc_curves.png)
+
+**Feature Importance**
+![Feature Importance](Images/plot_feature_importance.png)
+
+**Decision Tree Structure**
+![Decision Tree](Images/plot_decision_tree.png)
+
 ### Step 4: Model Training
 
 Two classification models were trained and compared:
