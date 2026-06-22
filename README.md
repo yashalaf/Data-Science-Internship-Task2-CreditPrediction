@@ -111,37 +111,37 @@ Outlier capping applied to: `annual_income`, `loan_amount`, `credit_score`, `deb
 ### 📸 EDA Plots
 
 **1. Target Distribution**
-![Target Distribution](Images/plot_target_distribution.png)
+![Target Distribution](Credit-Risk-Prediction/Images/plot_target_distribution.png)
 
 **2. Loan Amount Analysis**
-![Loan Amount](Images/plot_loan_amount.png)
+![Loan Amount](Credit-Risk-Prediction/Images/plot_loan_amount.png)
 
 **3. Education Level Analysis**
-![Education Level](Images/plot_education.png)
+![Education Level](Credit-Risk-Prediction/Images/plot_education.png)
 
 **4. Annual Income Analysis**
-![Annual Income](Images/plot_income.png)
+![Annual Income](Credit-Risk-Prediction/Images/plot_income.png)
 
 **5. Credit Score Analysis**
-![Credit Score](Images/plot_credit_score.png)
+![Credit Score](Credit-Risk-Prediction/Images/plot_credit_score.png)
 
 **6. Correlation Heatmap**
-![Correlation Heatmap](Images/plot_correlation.png)
+![Correlation Heatmap](Credit-Risk-Prediction/Images/plot_correlation.png)
 
 **7. Demographics & Loan Purpose**
-![Demographics](Images/plot_demographics.png)
+![Demographics](Credit-Risk-Prediction/Images/plot_demographics.png)
 
 **Confusion Matrices**
-![Confusion Matrices](Images/plot_confusion_matrices.png)
+![Confusion Matrices](Credit-Risk-Prediction/Images/plot_confusion_matrices.png)
 
 **ROC Curves**
-![ROC Curves](Images/plot_roc_curves.png)
+![ROC Curves](Credit-Risk-Prediction/Images/plot_roc_curves.png)
 
 **Feature Importance**
-![Feature Importance](Images/plot_feature_importance.png)
+![Feature Importance](Credit-Risk-Prediction/Images/plot_feature_importance.png)
 
 **Decision Tree Structure**
-![Decision Tree](Images/plot_decision_tree.png)
+![Decision Tree](Credit-Risk-Prediction/Images/plot_decision_tree.png)
 
 ### Step 4: Model Training
 
