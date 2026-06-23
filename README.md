@@ -218,16 +218,14 @@ Two classification models were trained and compared:
 
 ---
 
-## 🧰 Technologies Used
+## 🛠️ Technologies Used
 
-| Library | Version | Purpose |
-|---|---|---|
-| `pandas` | 2.0+ | Data loading, cleaning, manipulation |
-| `numpy` | 1.24+ | Numerical operations, array handling |
-| `matplotlib` | 3.7+ | Custom plots, figure layout |
-| `seaborn` | 0.12+ | Statistical visualizations (violin, heatmap) |
-| `scikit-learn` | 1.3+ | ML models, preprocessing, metrics |
-| `jupyter` | 7.0+ | Interactive notebook environment |
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-EDA-green)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Models-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualisation-red)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualisation-purple)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-yellow)
 
 ---
 
@@ -267,5 +265,3 @@ Go to: **Kernel → Restart & Run All**
 - ✅ Feature importance analysis and business insight generation
 
 ---
-
-*Task 2 Data Science Internship
