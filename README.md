@@ -31,7 +31,19 @@ Credit-Risk-Prediction/
 │
 ├── README.md                          ← Project documentation (this file)
 ├── Task2_CreditRiskPrediction.ipynb       ← Full Jupyter Notebook (executed)
-└── LoanPredictionDataset.csv          ← Dataset (20,000 records)
+├── LoanPredictionDataset.csv          ← Dataset (20,000 records)
+└── Images/
+         ├── plot_target_distribution.png
+         ├── plot_loan_amount.png
+         ├── plot_education.png
+         ├── plot_income.png
+         ├── plot_credit_score.png
+         ├── plot_correlation.png
+         ├── plot_demographics.png
+         ├── plot_confusion_matrices.png
+         ├── plot_roc_curves.png
+         ├── plot_feature_importance.png
+         ├── plot_decision_tree.png)
 ```
 
 ---
